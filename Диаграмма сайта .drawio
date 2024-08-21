@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Страница — 1" id="6OKmC3-pftHIiSL2Wp4h">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="About Us" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="84" width="303" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Philosophy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="114" y="117" width="92" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="The history of the coffee shop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="43" y="33" width="233" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=-1.47;entryX=0.49;entryY=-2.47;" edge="1" parent="2" source="4" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="Home Page" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="353" width="433" height="336" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Brief description of the coffee shop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6">
+          <mxGeometry x="89" y="117" width="270" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Welcome banner" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6">
+          <mxGeometry x="156" y="33" width="136" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Quick Actions: Menu, Booking, Find Us, About Us" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6">
+          <mxGeometry x="43" y="201" width="363" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Promotions and new items" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="6">
+          <mxGeometry x="122" y="285" width="204" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-2.09;exitY=1;entryX=-0.81;entryY=0;" edge="1" parent="6" source="8" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.81;exitY=1;entryX=-0.47;entryY=0;" edge="1" parent="6" source="7" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.47;exitY=1;entryX=-1.23;entryY=0;" edge="1" parent="6" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
